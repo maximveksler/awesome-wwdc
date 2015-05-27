@@ -1,4 +1,6 @@
-<img src="wwdc.png" />
+<p align="center">
+  <img src="wwdc.png" />
+</p>
 
 # awesome-wwdc
 
