@@ -8,7 +8,7 @@
 
 ### Tips
  - Carry a business card. Apple employees wont give you their, but will accept yours
- - Labs are for rockstarts, come early to register your slot
+ - Labs are for rockstars, come early to register your slot
  - Mingle and talk to as many people as you can
 
 ### Keynote
