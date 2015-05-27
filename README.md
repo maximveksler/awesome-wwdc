@@ -56,3 +56,7 @@ The Keynote is the most popular event of the whole week. If you want to get in c
 ### Listen
  - [Release Notes - 105 Our Annual WWDC Tips](http://releasenotes.tv/105-our-annual-wwdc-tips/)
  
+# While At It
+ - [@JonyIveParody](https://twitter.com/JonyIveParody) - Apple, from not Jony Fucking Ive's PoV
+ - [@Horse_iOS](https://twitter.com/horse_ios) - Yes, that's are real person
+ - [@_HairForceOne] - Craig Federighi. Most definitely Parody.
