@@ -7,12 +7,19 @@
 ❕Schedule goes all the way to friday
 
 ### Tips
- - Bring a business card, apple employee are not allowed to give you their cards, but will take yours.
+ - Carry a business card. Apple employees wont give you their, but will accept yours
+ - Labs are for rockstarts, come early to register your slot
+ - Mingle and talk to as many people as you can
 
 ### Keynote
- - If you want to attent the keynote, come early.
- - Bring a foldable chair to sit upon
+ - If you want to attent the keynote, come early (6am early)
+ - Bring a foldable chair with you
 
+### Developer
+ - Have a 2nd device to install iOS9 and hack
+ - First floor has a network CDN to download the new release
+ - 
+ 
 ### Rumors
  - [MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updating with the latested information about the expected conference announcments.
 
