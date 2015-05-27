@@ -3,8 +3,8 @@
 </p>
 
 # Conference
- - Note! No selfie sticks this year!
- - Note! Lecturens continue all the way to friday.
+ - ❕No selfie sticks
+ - ❕Schedule goes all the way to friday
 
 ### Tips
  - Bring a business card, apple employee are not allowed to give you their cards, but will take yours.
