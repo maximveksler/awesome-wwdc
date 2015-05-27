@@ -18,10 +18,9 @@
 ### Developer
  - Have a 2nd device to install iOS9 and hack
  - First floor has a network CDN to download the new release
- - 
- 
-### Rumors
- - [MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updating with the latested information about the expected conference announcments.
+
+### Upcoming
+ - [MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updated with the latest info
 
 ### Alternatives
  - [AltConf](http://altconf.com/) – The original alternative to WWDC
