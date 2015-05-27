@@ -53,7 +53,7 @@ The Keynote is the most popular event of the whole week. If you want to get in c
 
 # San Francisco
 
-*Could use some help here guys*
+*Could use some help here guys..*
 
 ### Visit
  - ⌘
