@@ -1,3 +1,22 @@
+### Contents
+ * [Conference](#conference)
+   * [Tips](#tips)
+   * [Keynote](#keynote)
+   * [Developer](#developer)
+   * [Upcoming](#upcoming)
+   * [Parallel](#parallel)
+ * [San Francisco](#san-francisco)
+   * [Visit](#visit)
+   * [Drink](#drink)
+   * [Eat](#eat)
+   * [Sleep](#sleep)
+ * [Community](#community)
+   * [Party](#party)
+   * [Talk](#talk)
+   * [Listen](#listen)
+ * [While At it](while-at-it)
+
+
 <p align="center">
   <img src="wwdc.png" />
 </p>
@@ -25,7 +44,7 @@ The Keynote is the most popular event of the whole week. If you want to get in c
 ### Upcoming
  - [MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updated with the latest info
 
-### Alternatives
+### Parallel
  - [AltConf](http://altconf.com/) – The original alternative to WWDC
  - [Layers](http://bringyourlayers.com/) – A conference about design
 
