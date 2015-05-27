@@ -1,2 +1,7 @@
+<img src="wwdc.png" />
+
 # awesome-wwdc
-A curated list of awesome WWDC events and information including restaurants, tips and people
+
+Welcome to WWDC 2015
+
+# 
