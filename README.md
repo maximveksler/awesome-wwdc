@@ -43,10 +43,10 @@ The Keynote is the most popular event of the whole week. If you want to get in c
  - [Parties for WWDC](https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8) - an app to help you find out what’s going on at WWDC
 
 ### Dialog
+ - [Core Intuition #wwdc channel](http://chat.coreint.org)
+ - [iOS Developers #wwdc15 channel](http://ios-developers.io)
  - [WWDC 2015 Slack group](https://polar-refuge-3698.herokuapp.com)
- - [iOS Developers #WWDC channel](http://ios-developers.io)
- - [Core Intuition #WWDC channel](http://chat.coreint.org)
 
 ### Podcasts
  - [Release Notes - 105 Our Annual WWDC Tips](http://releasenotes.tv/105-our-annual-wwdc-tips/)
- - 
+ 
