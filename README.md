@@ -3,18 +3,17 @@
    * [Tips](#tips)
    * [Keynote](#keynote)
    * [Developer](#developer)
-   * [Upcoming](#upcoming)
-   * [Parallel](#parallel)
+ * [Events](#events) 
+   * [Parallel Conferences](#parallel-conferences)
+   * [Party](#party)
  * [San Francisco](#san-francisco)
    * [Visit](#visit)
    * [Drink](#drink)
    * [Eat](#eat)
    * [Sleep](#sleep)
  * [Community](#community)
-   * [Party](#party)
    * [Talk](#talk)
    * [Listen](#listen)
- * [😂 While At It](#-while-at-it)
 
 
 <p align="center">
@@ -24,6 +23,8 @@
 # Conference
 ❕No selfie sticks   
 ❕Schedule goes all the way to friday
+
+[MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updated with the latest info
 
 ### Tips
  - Carry a business card. Apple employees wont give you their, but will accept yours
@@ -41,12 +42,14 @@ The Keynote is the most popular event of the whole week. If you want to get in c
  - Have a 2nd device to install iOS9 and hack
  - First floor has a network CDN to download the new release
 
-### Upcoming
- - [MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updated with the latest info
+# Events 
 
-### Parallel
+### Parallel Conferences
  - [AltConf](http://altconf.com/) – The original alternative to WWDC
  - [Layers](http://bringyourlayers.com/) – A conference about design
+
+### Party
+ - [Parties for WWDC](https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8) - an app to help you find out what’s going on during WWDC
 
 # San Francisco
 
@@ -66,8 +69,6 @@ The Keynote is the most popular event of the whole week. If you want to get in c
 
 # Community
 
-### Party
- - [Parties for WWDC](https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8) - an app to help you find out what’s going on during WWDC
 
 ### Talk
  - [Core Intuition #wwdc channel](http://chat.coreint.org)
