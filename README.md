@@ -2,8 +2,8 @@
   <img src="wwdc.png" />
 </p>
 
-# awesome-wwdc
+### Conference Tips
 
-Welcome to WWDC 2015
+### Places
 
-# 
+### Parties
