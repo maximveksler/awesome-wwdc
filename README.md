@@ -1,4 +1,3 @@
-### Contents
  * [Conference](#conference)
    * [Tips](#tips)
    * [Keynote](#keynote)
