@@ -32,12 +32,16 @@ The Keynote is the most popular event of the whole week. If you want to get in c
 # San Francisco
 
 ### Visit
+ - ⌘
 
 ### Drink
-
+ - ⌘
+ 
 ### Eat
+ - ⌘
 
 ### Sleep 
+ - ⌘
 
 # Community
 
