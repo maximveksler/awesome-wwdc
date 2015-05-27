@@ -12,8 +12,11 @@
  - Mingle and talk to as many people as you can
 
 ### Keynote
- - If you want to attent the keynote, come early (6am early)
+
+The Keynote is the most popular event of the whole week. If you want to get in come early (6am early) and expect to wait in line, it's an adventure and you should treat it as such, you will meet amazing people and optionally form life lasting friendships with the people you meet.
+
  - Bring a foldable chair with you
+ - Come in group, makes taking trips for coffee and rest rooms
 
 ### Developer
  - Have a 2nd device to install iOS9 and hack
