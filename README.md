@@ -57,6 +57,7 @@ Keynote is the highlight of the whole week. If you want to get in come early (6a
 
 ### Party
  - [Parties for WWDC](https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8) - an app to help you find out what’s going on during WWDC
+ - [WWDC Parties](https://2015.wwdcparties.com) - Aggreated list of WWDC focued events, filted by alcohol, food, meetup, presentation and outdoors.
 
 # San Francisco
 
