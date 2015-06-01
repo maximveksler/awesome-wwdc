@@ -3,6 +3,7 @@
    * [Keynote](#keynote)
    * [Developer](#developer)
    * [Tools](#tools)
+   * [Swag](#swag)
  * [Events](#events) 
    * [Parallel Conferences](#parallel-conferences)
    * [Party](#party)
@@ -60,6 +61,13 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
  - [ASCIIwwdc](http://asciiwwdc.com/) – Searchable full-text transcripts of WWDC sessions
  - [WWDC](https://github.com/insidegui/WWDC) – Watch WWDC sessions on your Mac.
 
+### Swag
+ - [Company Store](https://www.apple.com/companystore/) is open speacial hours during WWDC. 
+   - June 7, 12:00 p.m. to 5:30 p.m.
+   - June 8-12, 10:00 a.m. to 5:30 p.m.
+ - There is a mini store in Moscone during the conference, carrying less items but saves you the 1 h trip.
+ 
+ 
 # Events 
 
 Mingle and talk to as many people as you can, all through the conference.
