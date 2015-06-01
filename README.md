@@ -25,7 +25,7 @@
 ❕No selfie sticks   
 ❕Lectures this year strech all the way to friday
 
-[MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updated with the latest info
+[MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) – Updated with the latest info
 
 ### Tips
  - **Carry a business card**.   
@@ -57,20 +57,21 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
  - First floor has a network CDN to download the new release
 
 ### Tools
- - [ASCIIwwdc](http://asciiwwdc.com/): Searchable full-text transcripts of WWDC sessions
- - [WWDC](https://github.com/insidegui/WWDC): Watch WWDC sessions on your Mac.
+ - [ASCIIwwdc](http://asciiwwdc.com/) – Searchable full-text transcripts of WWDC sessions
+ - [WWDC](https://github.com/insidegui/WWDC) – Watch WWDC sessions on your Mac.
 
 # Events 
 
- - Mingle and talk to as many people as you can, all through the conference.
+Mingle and talk to as many people as you can, all through the conference.
 
 ### Parallel Conferences
  - [AltConf](http://altconf.com/) – The original alternative to WWDC
  - [Layers](http://bringyourlayers.com/) – A conference about design
 
 ### Party
- - [Parties for WWDC](https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8) - an app to help you find out what’s going on during WWDC
- - [WWDC Parties](https://2015.wwdcparties.com) - Aggreated list of WWDC focued events, filted by alcohol, food, meetup, presentation and outdoors.
+ - [Parties for WWDC](https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8) – an app to help you find out what’s going on during WWDC
+ - [WWDC Parties](https://2015.wwdcparties.com) – Aggreated list of WWDC focued events, filted by alcohol, food, meetup, presentation and outdoors.
+ - [@WWDCParties](https://twitter.com/WWDCParties) – Twitter feed of WWDC Parties website, listing all the recent hot stuff as they are announced.
 
 # San Francisco
 
@@ -78,7 +79,6 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
 
 ### Visit
  - 2066 Crist Drive, Los Altos, California
- - 
 
 ### Drink
  - [The Chieftain](http://www.thechieftain.com) bar is a popular watering hole during WWDC festivities. *198 5th St, San Francisco*
