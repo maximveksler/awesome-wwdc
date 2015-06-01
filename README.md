@@ -38,10 +38,12 @@ Make sure to pack your Mac with the latest developer tools installed, iOS device
 
 ### Keynote
 
-The Keynote is the most popular event of the whole week. If you want to get in come early (6am early) and expect to wait in line, it's an adventure and you should treat it as such, you will meet amazing people and optionally form life lasting friendships with the people you meet.
+Keynote is the highlight of the whole week. If you want to get in come early (6am early) and expect to wait in line. it's an adventure and you should treat it as such, you will meet amazing people and optionally form life lasting friendships.
 
- - Bring a chair with you to sit through the line, make it foldble for extra "they guards won't throw it away" points
- - Come in a group; makes taking coffee trips much easier
+ - Bring a chair with you to sit through the line.   
+*Make it foldble for extra "the guards won't throw it away" points*
+ - Come in a group.  
+Makes taking coffee trips much easier
 
 ### Developer
  - Have a 2nd device to install iOS9 and hack
