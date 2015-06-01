@@ -90,9 +90,9 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
 
 
 ### Talk
- - [Core Intuition #wwdc channel](http://chat.coreint.org)
- - [iOS Developers #wwdc15 channel](http://ios-developers.io)
- - [WWDC 2015 Slack group](https://polar-refuge-3698.herokuapp.com)
+ - [Core Intuition Slack #wwdc channel](http://chat.coreint.org)
+ - [iOS Developers Slack #wwdc15 channel](http://ios-developers.io)
+ - [WWDC 2015 Slack](https://polar-refuge-3698.herokuapp.com)
 
 ### Listen
  - [Release Notes - 105 Our Annual WWDC Tips](http://releasenotes.tv/105-our-annual-wwdc-tips/)
