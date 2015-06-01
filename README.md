@@ -26,14 +26,14 @@
 [MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updated with the latest info
 
 ### Tips
- - *Carry a business card*.   
+ - **Carry a business card**.   
 Apple employees wont give you their, but will accept yours
- - *Labs are for rockstars, come early to register your slot.*
- - *Speed up your check-in*.   
+ - **Labs are for rockstars, come early to register your slot**.
+ - **Speed up your check-in**.   
 Apple emailed you a personal Passbook for faster check-in at Moscone West. You can check in starting Sunday, June 7 at 9:00 a.m. 
- - *Download the WWDC app*.   
+ - **Download the WWDC app**.   
 [Get the app](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8) to mark your favorite special events, lunchtime speakers, and Get Togethers. After the keynote you’ll be able to view the full schedule and get access to news updates, session videos, and more throughout the week.
- - *Bring all your gear*.   
+ - **Bring all your gear**.   
 Make sure to pack your Mac with the latest developer tools installed, iOS devices for testing, and essential peripherals like power and Ethernet adapters.
 
 ### Keynote
