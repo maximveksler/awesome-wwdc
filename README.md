@@ -35,6 +35,8 @@ Apple emailed you a personal Passbook for faster check-in at Moscone West. You c
 [Get the app](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8) to mark your favorite special events, lunchtime speakers, and Get Togethers. After the keynote you’ll be able to view the full schedule and get access to news updates, session videos, and more throughout the week.
  - **Bring all your gear**.   
 Make sure to pack your Mac with the latest developer tools installed, iOS devices for testing, and essential peripherals like power and Ethernet adapters.
+ - Sandwiches are delivered during launch time, they are usually meh at best.
+   - Lactose-intolerant sandwiches taste better.
 
 ### Keynote
 
@@ -44,9 +46,11 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
    - Bring a chair with you to sit through the line. Make it foldble for extra "the guards won't throw it away" points.
    - Waiting the line is an adventure and you should treat it as such, you will meet amazing people and optionally form life lasting friendships.
    - Come in a group. Makes taking coffee trips much easier.
+ - Wi-Fi usually dies during the keynote due to high demand, no work arounds. Be prepared.
+   - Do not use [MiFi](https://www.youtube.com/watch?v=znxQOPFg2mo)
 
 ### Developer
- - Have a 2nd device to install iOS9 and hack
+ - Bring a secondary device for iOS 9 hacking
  - First floor has a network CDN to download the new release
 
 # Events 
