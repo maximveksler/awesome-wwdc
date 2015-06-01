@@ -2,6 +2,7 @@
    * [Tips](#tips)
    * [Keynote](#keynote)
    * [Developer](#developer)
+   * [Tools](#tools)
  * [Events](#events) 
    * [Parallel Conferences](#parallel-conferences)
    * [Party](#party)
@@ -54,6 +55,10 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
 ### Developer
  - Bring a secondary device for iOS 9 hacking
  - First floor has a network CDN to download the new release
+
+### Tools
+ - [ASCIIwwdc](http://asciiwwdc.com/): Searchable full-text transcripts of WWDC sessions
+ - [WWDC](https://github.com/insidegui/WWDC): Watch WWDC sessions on your Mac.
 
 # Events 
 
