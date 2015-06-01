@@ -10,6 +10,7 @@
    * [Drink](#drink)
    * [Eat](#eat)
    * [Sleep](#sleep)
+   * [Traval](#traval)
  * [Community](#community)
    * [Talk](#talk)
    * [Listen](#listen)
