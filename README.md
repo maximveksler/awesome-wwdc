@@ -74,7 +74,7 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
  - ⌘
 
 ### Drink
- - [The Chieftain](http://www.thechieftain.com) The Chieftain bar is a popular watering hole during WWDC festivities. *198 5th St, San Francisco*
+ - [The Chieftain](http://www.thechieftain.com) bar is a popular watering hole during WWDC festivities. *198 5th St, San Francisco*
  - After keynotes at Moscone Center, you can often bump into off-duty Apple employees minglingat the [W Hotel bar](http://www.wsanfrancisco.com) just across the street. *181 3rd St, San Francisco*
  
 ### Eat
