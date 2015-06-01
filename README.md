@@ -35,8 +35,8 @@ Apple emailed you a personal Passbook for faster check-in at Moscone West. You c
 [Get the app](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8) to mark your favorite special events, lunchtime speakers, and Get Togethers. After the keynote you’ll be able to view the full schedule and get access to news updates, session videos, and more throughout the week.
  - **Bring all your gear**.   
 Make sure to pack your Mac with the latest developer tools installed, iOS devices for testing, and essential peripherals like power and Ethernet adapters.
- - Sandwiches are delivered during launch time, they are usually meh at best.
-   - Lactose-intolerant sandwiches taste better.
+ - **Sandwiches are delivered during launch time**.
+   - They are usually meh at best. Lactose-intolerant sandwiches taste better.
 
 ### Keynote
 
