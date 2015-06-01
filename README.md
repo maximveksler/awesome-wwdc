@@ -38,7 +38,7 @@ Make sure to pack your Mac with the latest developer tools installed, iOS device
 
 ### Keynote
 
-Keynote is the highlight of the whole week, usually a line begins to form starting from 6am to get good seats. If you prefer the chillback apporach, to amend the popularity there is a second stadium as well.
+Keynote is the opening highlight of the conference. Usually a line begins to form starting at 6am to get good seats. If you prefer the chillback apporach, arrive at 8:30, to amend the popularity there is a second stadium with live video. AltConf has a [standstanding-room](http://www.joecieplinski.com/blog/2015/03/30/release-notes-joins-forces-with-altconf/) live stream as well.
 
  - Come early if you want to get good seats close to the stage.
    - Bring a chair with you to sit through the line. Make it foldble for extra "the guards won't throw it away" points.
