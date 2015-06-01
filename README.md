@@ -71,7 +71,8 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
 *Could use some help here guys..*
 
 ### Visit
- - ⌘
+ - 2066 Crist Drive, Los Altos, California
+ - 
 
 ### Drink
  - [The Chieftain](http://www.thechieftain.com) bar is a popular watering hole during WWDC festivities. *198 5th St, San Francisco*
