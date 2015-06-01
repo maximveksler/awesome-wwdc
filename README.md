@@ -81,6 +81,10 @@ Keynote is the opening highlight of the conference. Usually a line begins to for
 ### Sleep 
  - ⌘
 
+### Traval
+ - Muir Woods is a great place to hike if you want to get out of the city for a little while.
+ - Yosemitie is beautiful for a weekend, and only 4 h by car.
+
 # Community
 
 
