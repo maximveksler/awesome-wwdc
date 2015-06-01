@@ -22,7 +22,7 @@
 
 # Conference
 ❕No selfie sticks   
-❕Friday is a talks day as well this year
+❕Lectures this year strech all the way to friday
 
 [MacRumors WWDC Roundup](http://www.macrumors.com/roundup/wwdc/) - Updated with the latest info
 
