@@ -134,3 +134,5 @@ Mingle and talk to as many people as you can, all through the conference.
  - [@JonyIveParody](https://twitter.com/JonyIveParody) - Apple, from not Jony Fucking Ive's PoV
  - [@Horse_iOS](https://twitter.com/horse_ios) - Yes, that's are real person
  - [@_HairForceOne](https://twitter.com/_hairforceone) - Craig Federighi. Most definitely Parody.
+ - [@SwiftOnSecurity](https://twitter.com/swiftonsecurity) - Who is this man/woman/trans-human-algo-thing ?
+ - [@StartupLJackson](https://twitter.com/startupljackson) - Whaaaaaaaa? jezzz nvr mind.
