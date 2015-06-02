@@ -86,14 +86,26 @@ Mingle and talk to as many people as you can, all through the conference.
 *Could use some help here guys..*
 
 ### Visit
- - 2066 Crist Drive, Los Altos, California
+ - 2066 Crist Drive, Los Altos, California (?)
+ - [Emperor Norton's Fantastic San Francisco Time Machine](http://www.emperornortontour.com) - a fun walking tour if you're interested in San Francisco history.
+ - Chinatown is fun to walk around in and there's lots of good food.
+ - [Musee Mecanique](http://museemecaniquesf.com) in Fisherman's Wharf is a free museum with lots of old arcade machines.
+ - [Free Gold Watch](http://uptownalmanac.com/2013/07/free-gold-watch-best-place-san-francisco-where-no-one-goes-yet) in Haight-Ashbury is the best place to play pinball in SF.
+ - Golden Gate Park is a short MUNI ride away with attractions like California Academy of Science, De Young Museum, and Botanical Gardens
 
 ### Drink
  - [The Chieftain](http://www.thechieftain.com) bar is a popular watering hole during WWDC festivities. *198 5th St, San Francisco*
  - After keynotes at Moscone Center, you can often bump into off-duty Apple employees minglingat the [W Hotel bar](http://www.wsanfrancisco.com) just across the street. *181 3rd St, San Francisco*
+ - House of Shields, on New Montgomery Street across from the Palace Hotel
+ - [Thirsty Bear](http://thirstybear.com) is popular for beer & tapas.
+ - [21st Amendment](http://21st-amendment.com) is another popular brewpub restaurant.
  
 ### Eat
- - ⌘
+ - [Cafe Chaat](http://www.cafechaatsanfrancisco.com) Good Indian food a block from Moscone
+ - Osha Thai - Thai food a block from Moscone
+ - [Canton Dim Sum](http://www.cantonsf.com) Chinese restaurant on Folsom St.
+ - [Tommy's Joynt](http://www.tommysjoynt.com) - a San Francisco tradition.
+ - [San Tung](http://santungchineserestaurant.com) a bit out of the way, but worth the trip for the best wings.
 
 ### Sleep 
  - [Hotel Tonight](https://itunes.apple.com/us/app/hotel-tonight-last-minute/id407690035?mt=8)
