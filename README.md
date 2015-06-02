@@ -7,6 +7,7 @@
  * [Events](#events) 
    * [Parallel Conferences](#parallel-conferences)
    * [Party](#party)
+   * [Pure Fun](#pure-fun)
  * [San Francisco](#san-francisco)
    * [Visit](#visit)
    * [Drink](#drink)
@@ -81,7 +82,7 @@ Mingle and talk to as many people as you can, all through the conference.
  - [WWDC Parties](https://2015.wwdcparties.com) – Aggreated list of WWDC focued events, filted by alcohol, food, meetup, presentation and outdoors.
  - [@WWDCParties](https://twitter.com/WWDCParties) – Twitter feed of WWDC Parties website, listing all the recent hot stuff as they are announced.
 
-### Pure Fun Mingling Opportunities
+### Pure Fun
  - [WWDC Hike](http://wwdchike.com) - June 7th, 2015, the Sunday before WWDC. We'll leave at 2pm.
 
 # San Francisco
