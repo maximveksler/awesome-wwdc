@@ -18,7 +18,6 @@
    * [Talk](#talk)
    * [Listen](#listen)
 
-
 <p align="center">
   <img src="wwdc.png" />
 </p>
@@ -45,7 +44,7 @@ Make sure to pack your Mac with the latest developer tools installed, iOS device
 
 ### Keynote
 
-Keynote is the opening highlight of the conference. Usually a line begins to form starting at 6am to get good seats. If you prefer the chillback apporach, arrive at 8:30, to amend the popularity there is a second stadium with live video. AltConf has a [standstanding-room](http://www.joecieplinski.com/blog/2015/03/30/release-notes-joins-forces-with-altconf/) live stream as well.
+Keynote is the opening highlight of the conference. Usually a line begins to form starting at 6am to get good seats. If you prefer the chillback apporach, arrive at 8:30, to amend the popularity there is a second stadium with live video. AltConf has a [standing-room](http://www.joecieplinski.com/blog/2015/03/30/release-notes-joins-forces-with-altconf/) live stream as well.
 
  - Come early if you want to get good seats close to the stage.
    - Bring a chair with you to sit through the line. Make it foldable for extra "the guards won't throw it away" points.
