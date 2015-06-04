@@ -44,14 +44,16 @@ Make sure to pack your Mac with the latest developer tools installed, iOS device
 
 ### Keynote
 
-Keynote is the highlight opening event of the conference. Usually a line begins to form starting at 6am to get good seats. If you prefer the chillback approach, arrive at 8:30. Once the first hall gets full to amend the popularity Apple will overflow you to a second stadium with live video. Additionally AltConf operates a [standing-room](http://www.joecieplinski.com/blog/2015/03/30/release-notes-joins-forces-with-altconf/) with live stream video of the keynote.
+Keynote is the highlight opening event of the conference. Usually a line begins to form starting at 6am. Waiting the line is an adventure and you should treat it as such, you will meet amazing people and optionally form life lasting friendships. If you prefer the chillback approach, arrive at 8:30. Apple will overflow to a second hall with live video once the first hall gets full. Additionally AltConf operates a [standing-room](http://www.joecieplinski.com/blog/2015/03/30/release-notes-joins-forces-with-altconf/) with live stream video of the keynote.
 
- - Come early if you want to get good seats close to the stage.
-   - Bring a chair with you to sit through the line. Make it foldable for extra "the guards won't throw it away" points.
-   - Waiting the line is an adventure and you should treat it as such, you will meet amazing people and optionally form life lasting friendships.
+ - You need to pick up your WWDC badge on Sunday to get in time for the keynote on Monday.
+   - Visit the check-in desk at Moscone West on Sunday, June 7 from 9:00 a.m to 7:00 p.m. PDT.
+ - On Monday come early if you want to get good seats.
+   - Bring a chair to sit through the line. 
+   - If the chair is foldable put it in your bag before going in, otherwise the guards will throw it away.
    - Come in a group. Makes taking coffee trips much easier.
- - Wi-Fi usually dies during the keynote due to high demand, no work arounds. Be prepared.
-   - Do not use [MiFi](https://www.youtube.com/watch?v=znxQOPFg2mo)
+ - Wi-Fi usually dies during the keynote due to high demand, no work-arounds. Be prepared.
+   - **Do not** use [MiFi](https://www.youtube.com/watch?v=znxQOPFg2mo)
 
 ### Developer
  - Bring a secondary device for iOS 9 hacking
