@@ -63,6 +63,7 @@ Keynote is the highlight opening event of the conference. Usually a line begins 
  - [ASCIIwwdc](http://asciiwwdc.com/) – Searchable full-text transcripts of WWDC sessions
  - [WWDC](https://github.com/insidegui/WWDC) – Watch WWDC sessions on your Mac.
  - [Passbook Business Card](http://www.myuiviews.com/2014/06/01/step-by-step-create-a-passbook-business-card.html) - Geekout on exploiting Apple's Passbook app to distribute your developer based business card.
+ - [WWDC Downloader](https://github.com/ohoachuck/wwdc-downloader) - Download the whole conference videos, pdf and sample code to your laptop, for comfort watching on your flight back home.
 
 ### Swag
  - [Company Store](https://www.apple.com/companystore/) is open speacial hours during WWDC. 
